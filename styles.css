@@ -35,6 +35,8 @@ body
 body {
     background-color: #000000;
     color: ghostwhite;
+    width: 1000px;
+    margin: auto;
 }
 
 h1 {
@@ -45,15 +47,6 @@ h1 {
 .main
 {
     font-size:x-large;
-
-    
-}
-
-body
-
-{
-width: 1000px
-
 }
 
 h1
